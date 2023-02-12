@@ -240,4 +240,4 @@ git config --global --edit
 
 `git c` - alias for `git add --all && git commit -m`
 
-`git l` - alias for `git log --pretty=format:'%C(blue)%h%C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'`q
+`git l` - alias for `git log --pretty=format:'%C(blue)%h%C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'`
