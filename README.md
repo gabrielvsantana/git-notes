@@ -22,6 +22,7 @@ The idea of this file is to share the commands and workflow I use in my daily li
 1. [Git Config](#git-config)
 	1. [Set default editor to Visual Studio Code](#set-default-editor-to-visual-studio-code)
 	1. [To edit](#to-edit)
+1. [For More Dev Notes](#for-more-dev-notes)
 
 <br/>
 
@@ -241,3 +242,9 @@ git config --global --edit
 `git c` - alias for `git add --all && git commit -m`
 
 `git l` - alias for `git log --pretty=format:'%C(blue)%h%C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'`
+
+<br/>
+
+# For More Dev Notes
+
+This is just one piece of my open personal notes collection, where I'm mapping out all my knowledge. If you're keen on checking out other topics, give this a click: ***[official dev-notes](https://github.com/gabrielvsantana/dev-notes)***
